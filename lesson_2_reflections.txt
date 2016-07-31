@@ -1,0 +1,4 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize the repository you are basically telling git to start getting ready to track changes in the repo. You need to do it so that you have access to the full version-tracking features of git and be more efficient and organized when creating your program. 
+
