@@ -2,3 +2,8 @@
 
 When you initialize the repository you are basically telling git to start getting ready to track changes in the repo. You need to do it so that you have access to the full version-tracking features of git and be more efficient and organized when creating your program. 
 
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from the working directory and repository as it allows you to get files ready to push over to both the working directory and repository. The value is that it allows you to review what files you are going to commit before doing so and creating a new version of the code/file.
+
+3)
